@@ -19,5 +19,5 @@ yarn or npm install
 ## Usage
 
 ```
-yarn dev
+yarn dev 
 ```

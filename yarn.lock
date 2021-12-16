@@ -261,6 +261,11 @@ amdefine@>=0.0.4:
   resolved "http://npm-dmd.oppoer.me/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
   integrity sha1-SlKCrBZHKek2Gbz9OtFR+BfOkfU=
 
+amfe-flexible@^2.2.1:
+  version "2.2.1"
+  resolved "http://npm-dmd.oppoer.me/amfe-flexible/-/amfe-flexible-2.2.1.tgz#353f00289e4d38ca88a21eb3854420308af0b559"
+  integrity sha1-NT8AKJ5NOMqIoh6zhUQgMIrwtVk=
+
 ansi-regex@^2.0.0:
   version "2.1.1"
   resolved "http://npm-dmd.oppoer.me/ansi-regex/-/ansi-regex-2.1.1.tgz#c3b33ab5ee360d86e0e628f0468ae7ef27d654df"
